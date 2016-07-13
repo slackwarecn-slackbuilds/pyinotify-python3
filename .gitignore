@@ -1,0 +1,14 @@
+# backup files
+*~
+*.bak
+*.swp
+
+# tarball
+*.txz
+*.tgz
+
+# tmp
+*.deb
+*.tar.gz
+*.tar.xz
+
