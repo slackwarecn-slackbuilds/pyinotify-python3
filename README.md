@@ -15,8 +15,9 @@ See [pyinotify-python3.info](pyinotify-python3.info) and [slack-desc](slack-desc
 ## BUILD
 
 ```
-git clone https://github.com/slackwarecn/pyinotify-python3.git
+git clone https://github.com/slackwarecn-slackbuilds/pyinotify-python3.git
 cd pyinotify-python3
-PREBUILD=yes ./pyinotify-python3.SlackBuild
+source pyinotify-python3.info
+./pyinotify-python3.SlackBuild
 ```
 
